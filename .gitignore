@@ -1,0 +1,19 @@
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores
+.idea/
+*.swp
+
+# Dependências / builds (caso venha a usar ferramentas no futuro)
+node_modules/
+dist/
+.cache/
+
+# Arquivos de trabalho que não devem ir para o GitHub
+*.dwg
+*.rvt
+*.bak
+*.tmp
